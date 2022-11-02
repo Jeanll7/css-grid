@@ -1,5 +1,8 @@
-body {
-    background-color: #ccc;
+* {
+    margin: 0;
+    padding: 0;
+    padding: 4px;
+    box-sizing: border-box;
 }
 
 img {
